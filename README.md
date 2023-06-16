@@ -6,22 +6,21 @@ On this page I show my skills to solve business problems using Data Science conc
 I'm currently learning and improving my skills.
 
 ## My previous Data Science skills ##
-*Linguagens de Programação e Banco de Dados*
-- Python com foco em análise de dados.
-- Web scraping com Python
-- SQL para extração de dados
+*Programming Languages and Database*
+- Python focused on data analysis.
+- Web scraping with Python
+- SQL for data extraction
 
-*Estatística e Machine Learning*
-- Estatística descritiva ( localização, dispersão, assimetria, kurtosis, densidade )
-- Algoritmos de Regressão, classificação, clusterização e "learn to rank"
-- Métricas de performance dos algoritmos ( RMSE, MAE, MAPE, Confusion Matrix,
-Precisão, Recall, Curva ROC, Curva Lift, AUC, Silhouette Score, DB-Index )
-- Pacotes de Machine Learning: Sklearn e Scipy.
+*Statistics and Machine Learning*
+- Descriptive statistics (location, dispersion, asymmetry, kurtosis, density)
+- Regression algorithms, classification, clustering and "learn to rank"
+- Performance metrics of algorithms (RMSE, MAE, MAPE, Confusion Matrix, Precision, Recall, ROC Curve, Lift Curve, AUC, Silhouette Score, DB-Index )
+- Machine Learning packages: Sklearn and Scipy.
 
-*Visualização de Dados*
+*Data Visualization*
 - Matplotlib, Seaborn, Plotly e Bokeh.
 
-*Engenharia de Software*
+*Software Engineering*
 - Git, Github, Gitlab, Streamlit, Python API's.
 
 
